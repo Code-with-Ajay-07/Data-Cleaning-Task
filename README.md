@@ -10,13 +10,15 @@ To clean and prepare a raw dataset (with nulls, duplicates, inconsistent formats
 - Excel
 
 ## 📊 Dataset
-- Netflix TV and Shows (Kaggle)
+- Netflix TV, Movies and Shows (Kaggle)
 
 ## 🚀 Steps Performed
 - Removed missing values and duplicates
 - Standardized text fields
 - Renamed columns for consistency
 - Converted data types
+- Fix Date Formats
 - Exported cleaned dataset
+  
 
 
