@@ -10,7 +10,7 @@ To clean and prepare a raw dataset (with nulls, duplicates, inconsistent formats
 - Excel
 
 ## 📊 Dataset
-- Mall Customer Segmentation Data (Kaggle)
+- Netflix TV and Shows (Kaggle)
 
 ## 🚀 Steps Performed
 - Removed missing values and duplicates
